@@ -26,9 +26,8 @@ module.exports = {
           position: 'left',
           label: 'Docs',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/bluecoderr/jfilters-docs/',
           label: 'GitHub',
           position: 'right',
         },
@@ -38,19 +37,10 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
-          items: [
-            {
-              label: 'Tutorial',
-              to: '/docs/intro',
-            },
-          ],
-        },
-        {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
+              label: 'Facebook',
               href: 'https://stackoverflow.com/questions/tagged/docusaurus',
             },
             {
@@ -63,21 +53,8 @@ module.exports = {
             },
           ],
         },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'Blog',
-              to: '/blog',
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
-            },
-          ],
-        },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Blue-coder.com. Built with Docusaurus.`,
     },
     prism: {
       theme: lightCodeTheme,
@@ -88,6 +65,7 @@ module.exports = {
     [
       '@docusaurus/preset-classic',
       {
+        blog:false,
         docs: {
           path: 'docs',
           routeBasePath: '/',
