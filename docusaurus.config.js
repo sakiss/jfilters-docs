@@ -3,8 +3,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'JFilters Documentation',
+  tagline: 'The filtering solution for Joomla 4',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -54,7 +54,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Blue-coder.com. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Blue-coder.com.`,
     },
     prism: {
       theme: lightCodeTheme,
@@ -72,7 +72,7 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            'https://github.com/bluecoderr/jfilters-docs/tree/master/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
