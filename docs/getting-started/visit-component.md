@@ -11,7 +11,7 @@ The component's main responsibilities are:
 1. Generates the filters from your Joomla system.
 2. Provides an interface for the filters configuration.
 3. Provides the filters to the front-end.
-4. Perform the filtering and return results.
+4. Performs the filtering and return results.
 
 ## What to check on 1st visit
 
