@@ -1,7 +1,7 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 id: component-first-visit
-title: Visiting the Component
+title: Visit the Component
 ---
 
 # The JFilters component

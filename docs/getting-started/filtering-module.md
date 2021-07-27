@@ -1,7 +1,7 @@
 ---
-sidebar_position: 3
+sidebar_position: 4
 id: filtering-module
-title: Filtering Module
+title: Create a Filtering Module
 ---
 
 # Filtering Module
@@ -20,7 +20,7 @@ As with any module, publish it, put it in a module position and assign a menu it
 1.  **Selected Filters**.
     The filters that will be loaded in the module. Use that setting if you want to restrict the module to load ONLY specific filters.
     
-    :::note
+    :::info
     The module by default shows the filters and their options, relevant to the page's content.
     :::
     
