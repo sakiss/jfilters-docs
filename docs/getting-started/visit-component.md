@@ -9,7 +9,7 @@ title: Visit the Component
 ## What it does
 The component's main responsibilities are:
 1. To generate the filters from your Joomla system.
-2. To provide the configuration settings for each filter.
+2. To provide an interface for the filters configuration.
 3. To provide the filters to the front-end.
 4. To perform the filtering and return results.
 
@@ -28,8 +28,8 @@ The warnings should be resolved and go away, for the extension to work properly.
 ### Generating Filters
 The component will, auto-generate the filters and set them as unpublished by default.
 
-In case you wonder why you see some filters more than once. 
-It is because it generates a filter for each installed language, in case Joomla is setup as multi-lingual.
+In case you wonder why you see some filters with the same name, more than once. 
+It is because it generates a filter for each installed language, when Joomla is setup as multi-lingual.
 
 ### Publish Filters
 Publish the filters you want to use in the front-end and we are almost ready to go.

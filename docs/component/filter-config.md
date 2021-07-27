@@ -5,7 +5,7 @@ title: Filter Configuration
 
 # Filter Configuration
 
-The filter settings are divided in tabs. Follows an explanation of the settngs in each tab.
+The filter settings are divided in tabs. Follows an explanation of the settings found in each tab.
 
 ## Filter
 Provides essential settings and information about the filter.
