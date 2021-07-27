@@ -4,6 +4,9 @@ title: SEO
 ---
 
 # SEO
+
+SEO settings for that filter.
+
 ![Docusaurus](/img/component/filter-seo.png)
 
 ### Append Selections in URL Component
