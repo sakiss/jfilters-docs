@@ -7,13 +7,13 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: rgb(33, 175, 144);
-  --ifm-color-primary-darker: rgb(31, 165, 136);
-  --ifm-color-primary-darkest: rgb(26, 136, 112);
-  --ifm-color-primary-light: rgb(70, 203, 174);
-  --ifm-color-primary-lighter: rgb(102, 212, 189);
-  --ifm-color-primary-lightest: rgb(146, 224, 208);
+  --ifm-color-primary: #3578e5;
+  --ifm-color-primary-dark: rgb(48, 108, 206);
+  --ifm-color-primary-darker: rgb(45, 102, 195);
+  --ifm-color-primary-darkest: rgb(37, 84, 160);
+  --ifm-color-primary-light: rgb(83, 140, 233);
+  --ifm-color-primary-lighter: rgb(114, 161, 237);
+  --ifm-color-primary-lightest: rgb(154, 188, 242);
   --ifm-code-font-size: 95%;
 }
 
@@ -27,3 +27,112 @@
 html[data-theme='dark'] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
 }
+
+/* Added by sakis from: https://github.com/facebookincubator/infima/pull/155 This PR is merged, hence we can remove that css when we update.*/
+.alert--primary {
+  --ifm-alert-background-color: var(
+          --ifm-color-primary-contrast-background
+  );
+  --ra-admonition-icon-color: var(--ifm-color-primary-dark);
+  --ifm-alert-background-color-highlight: rgba(53, 120, 229, 0.15);
+  --ifm-alert-emphasis-color: var(--ifm-color-primary-contrast-emphasis);
+  --ifm-alert-border-color: var(--ifm-color-primary-dark);
+}
+
+.alert--secondary {
+  --ifm-alert-background-color: var(
+          --ifm-color-secondary-contrast-background
+  );
+  --ifm-alert-background-color-highlight: rgba(235, 237, 240, 0.15);
+  --ifm-alert-emphasis-color: var(--ifm-color-secondary-contrast-emphasis);
+  --ifm-alert-border-color: var(--ifm-color-secondary-dark);
+}
+
+.alert--success {
+  --ifm-alert-background-color: var(
+          --ifm-color-success-contrast-background
+  );
+  --ifm-alert-background-color-highlight: rgba(0, 164, 0, 0.15);
+  --ifm-alert-emphasis-color: var(--ifm-color-success-contrast-emphasis);
+  --ifm-alert-border-color: var(--ifm-color-success-dark);
+  --ra-admonition-icon-color: var(--ifm-color-success-dark);
+}
+
+.alert--info {
+  --ifm-alert-background-color: var(
+          --ifm-color-info-contrast-background
+  );
+  --ifm-alert-background-color-highlight: rgba(84, 199, 236, 0.15);
+  --ifm-alert-emphasis-color: var(--ifm-color-info-contrast-emphasis);
+  --ifm-alert-border-color: var(--ifm-color-info-dark);
+  --ra-admonition-icon-color: var(--ifm-color-info-dark);
+}
+
+.alert--warning {
+  --ifm-alert-background-color: var(
+          --ifm-color-warning-contrast-background
+  );
+  --ifm-alert-background-color-highlight: rgba(255, 186, 0, 0.15);
+  --ifm-alert-emphasis-color: var(--ifm-color-warning-contrast-emphasis);
+  --ifm-alert-border-color: var(--ifm-color-warning-dark);
+  --ra-admonition-icon-color: var(--ifm-color-warning-dark);
+}
+
+.alert--danger {
+  --ifm-alert-background-color: var(
+          --ifm-color-danger-contrast-background
+  );
+  --ifm-alert-background-color-highlight: rgba(250, 56, 62, 0.15);
+  --ifm-alert-emphasis-color: var(--ifm-color-danger-contrast-emphasis);
+  --ifm-alert-border-color: var(--ifm-color-danger-dark);
+  --ra-admonition-icon-color: var(--ifm-color-danger-dark);
+}
+
+.alert {
+
+  --ifm-code-background: var(--ifm-alert-background-color-highlight);
+  --ifm-link-color: var(--ifm-alert-emphasis-color);
+  --ifm-link-hover-color: var(--ifm-alert-emphasis-color);
+  --ifm-link-decoration: underline;
+  --ifm-tabs-color: var(--ifm-alert-emphasis-color);
+  --ifm-tabs-color-active: var(--ifm-alert-emphasis-color);
+  --ifm-tabs-color-active-border: var(--ifm-alert-border-color);
+
+  background-color: var(--ifm-alert-background-color);
+  border-color: var(--ifm-alert-border-color);
+  border-style: solid;
+  border-width: var(--ifm-alert-border-width);
+  border-left-width: var(--ifm-alert-border-left-width);
+  border-radius: var(--ifm-alert-border-radius);
+  box-shadow: var(--ifm-alert-shadow);
+  color: var(--ifm-alert-emphasis-color);
+  padding: var(--ifm-alert-padding-vertical) var(--ifm-alert-padding-horizontal);
+}
+
+.alert .close {
+  color: var(--ifm-alert-emphasis-color);
+  margin: calc(var(--ifm-alert-padding-vertical) * -1)
+  calc(var(--ifm-alert-padding-horizontal) * -1) 0 0;
+
+  opacity: 0.75;
+}
+
+.alert .close:hover {
+  opacity: 1;
+}
+
+.alert .close:focus {
+  opacity: 1;
+}
+
+.alert a {
+  color: var(--ifm-link-color);
+  -webkit-text-decoration-color: var(--ifm-alert-border-color);
+  text-decoration-color: var(--ifm-alert-border-color);
+}
+
+.alert a:hover,
+.alert a:focus {
+  text-decoration-thickness: 2px;
+}
+
