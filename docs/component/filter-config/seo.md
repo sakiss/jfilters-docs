@@ -41,7 +41,7 @@ With 'Max Path Levels' set to 3, the url will become:
 Updates the page's title with the filter selections.
 
 ### Follow Links by Search Engines
-This adds a [nofollow](https://developers.google.com/search/docs/advanced/guidelines/qualify-outbound-links?hl=en) `rel` attribute to your links.
+This adds a [nofollow](https://developers.google.com/search/docs/advanced/guidelines/qualify-outbound-links?hl=en) `rel` attribute to the links.
 
 :::info
 To prevent Google from indexing your results page, [use the **noindex** robots rule](https://help.joomla.org/proxy?keyref=Help40:Menu_Item:_New_Item&lang=en#Metadata), in the results menu item.
