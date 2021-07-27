@@ -8,7 +8,7 @@ Go to `Menus` select your menu and press the "New" button.
 As "Menu Item Type" select `JFilters > Results`.
 
 :::tip
-We do want this menu item to be directly accessible by the users.  
+We do NOT want this menu item to be directly accessible by the users.  
 Our suggestion is to put it under a menu, which is not visible in the front-end.
 :::
 
