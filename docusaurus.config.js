@@ -37,19 +37,15 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Community',
+          title: 'Connect',
           items: [
             {
               label: 'Facebook',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              href: 'https://facebook.com/bluecoder.software',
             },
             {
               label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              href: 'https://twitter.com/Bluecoder6',
             },
           ],
         },
