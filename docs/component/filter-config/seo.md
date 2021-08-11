@@ -1,6 +1,6 @@
 ---
 sidebar_position: 4
-title: SEO
+title: SEO section
 ---
 
 # SEO
@@ -23,7 +23,7 @@ e.g. `https://example.com/page?some-filter=some-value`
 
 ### Max Path Levels
 This setting regards the nested/tree filters.
-When an option is selected, defines the parent levels that will be appended in the urls.
+When an option is selected, defines the parent levels that will be appended in the url path.
 
 Example of a filter that shows types of wines:
 ```
@@ -32,7 +32,7 @@ Example of a filter that shows types of wines:
          - Merlot
          - Sovignon
 ```
-Lets say that the user selects **"Merlot"**.
+Let's say that the user selects **"Merlot"**.
 
 With 'Max Path Levels' set to 2, the url will become:
 `https://example.com/page/type/red/merlot`

@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-title: Basic
+title: Basic section
 ---
 
 # Basic
