@@ -5,7 +5,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'JFilters Documentation',
   tagline: 'The filtering solution for Joomla 4',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://docs.blue-coder.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
