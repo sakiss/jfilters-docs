@@ -1,6 +1,7 @@
 ---
 sidebar_position: 3
 title: Tree section
+description: The filter's 'Tree' tab.
 ---
 
 # Tree

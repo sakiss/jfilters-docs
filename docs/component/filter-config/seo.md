@@ -1,6 +1,7 @@
 ---
 sidebar_position: 4
 title: SEO section
+description: The filter's 'SEO' tab.
 ---
 
 # SEO

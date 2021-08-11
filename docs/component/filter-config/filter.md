@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 title: Filter section
+description: The filter's 'Filter' tab.
 ---
 
 # Filter

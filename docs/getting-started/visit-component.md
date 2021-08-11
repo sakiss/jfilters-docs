@@ -2,6 +2,7 @@
 sidebar_position: 3
 id: component-first-visit
 title: Visit the Component
+description: Exploring the 'JFilters' component on the 1st visit.
 ---
 
 # The JFilters component

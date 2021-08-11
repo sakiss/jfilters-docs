@@ -1,6 +1,7 @@
 ---
 sidebar_position: 2
 title: Basic section
+description: The filter's 'Basic' tab.
 ---
 
 # Basic

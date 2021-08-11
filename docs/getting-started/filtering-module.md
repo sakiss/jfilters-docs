@@ -2,6 +2,7 @@
 sidebar_position: 4
 id: filtering-module
 title: Create a Filtering Module
+description: Creating and configuring the filtering module.
 ---
 
 # Filtering Module

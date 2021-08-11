@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 title: Filters
+description: Explanation of the task buttons, in the component's filters view.
 ---
 
 # Filters

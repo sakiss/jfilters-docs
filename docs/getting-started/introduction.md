@@ -3,6 +3,7 @@ sidebar_position: 1
 slug: /
 id: intro
 title: Introduction
+description: What 'JFilters' is, and its noteworthy features.
 ---
 
 # JFilters
