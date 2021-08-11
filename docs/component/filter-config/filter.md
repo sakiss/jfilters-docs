@@ -8,7 +8,7 @@ description: The filter's 'Filter' tab.
 
 Provides essential settings and information about the filter.
 
-![Docusaurus](/img/component/filter-filter.png)
+![JFilters Filter filter settings](/img/component/filter-filter.png)
 
 ### Display
 How the filter will be displayed in the front-end.

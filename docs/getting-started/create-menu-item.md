@@ -17,7 +17,7 @@ e.g. If the site (or the used filters) are about wines, you can set *'wines'* as
 
 We will explain the settings under the **Options** tab, as the other are common settings for all the menu items in Joomla.
 
-![Docusaurus](/img/getting-started/menu-options.png)
+![JFilters menu settings](/img/getting-started/menu-options.png)
 
 ##  Primary Filter
 If a primary filter is selected, that filter will use as an alias, that menu item's alias.

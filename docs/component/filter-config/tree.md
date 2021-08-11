@@ -8,7 +8,7 @@ description: The filter's 'Tree' tab.
 
 This tab provides settings for filters that have nested options (e.g. Categories and Tags).
 
-![Docusaurus](/img/component/filter-tree.png)
+![JFilters Filter Tree settings](/img/component/filter-tree.png)
 
 ### Parent Option
 Sets the parent option, whose children nodes will be loaded in the filter.

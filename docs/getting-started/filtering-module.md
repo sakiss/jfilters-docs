@@ -34,4 +34,4 @@ As with any module, publish it, put it in a module position and assign a menu it
 
 Save the module, and we are done.
 
-![Docusaurus](/img/thumb.svg) Well done! Visit your front-end to see the filters.
+![thumbs up](/img/thumb.svg) Well done! Visit your front-end to see the filters.

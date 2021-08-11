@@ -20,7 +20,7 @@ The component's main responsibilities are:
 If you visit the JFilters component for the 1st time, you may get some warning messages at the top. 
 Each warning message, will come with a call-to-action button. Please press those buttons to resolve the mentioned issues.
 
-![Docusaurus](/img/getting-started/component-warnings.png)
+![JFilters component warnings](/img/getting-started/component-warnings.png)
 
 :::note
 The warnings should be resolved and go away, for the extension to work properly.

@@ -8,7 +8,7 @@ description: The filter's 'SEO' tab.
 
 SEO settings for that filter.
 
-![Docusaurus](/img/component/filter-seo.png)
+![JFilters Filter SEO settings](/img/component/filter-seo.png)
 
 ### Append Selections in URL Component
 In which [url component](https://datatracker.ietf.org/doc/html/rfc3986#section-3), the selections will be appended.
