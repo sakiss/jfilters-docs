@@ -13,6 +13,7 @@ module.exports = {
   organizationName: 'bluecoderr', // Usually your GitHub org/user name.
   projectName: 'jfilters-docs', // Usually your repo name.
   themeConfig: {
+    image: 'img/og_image.png',
     navbar: {
       title: 'JFilters Documentation',
       logo: {
