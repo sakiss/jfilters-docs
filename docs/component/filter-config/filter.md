@@ -20,3 +20,7 @@ It is not affected by the selections in the other filters and clears any selecti
 :::tip
 A common setup for a root filter, is to use a single-select display (e.g. links) and not have a *[clear](/component/filter-config/basic#show-clear) option*.
 :::
+
+:::tip
+We suggest putting the root filters at the top of your filters list.
+:::
