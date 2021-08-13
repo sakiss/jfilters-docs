@@ -46,7 +46,7 @@ module.exports = {
             },
             {
               label: 'Twitter',
-              href: 'https://twitter.com/Bluecoder6',
+              href: 'https://twitter.com/thebluecoder',
             },
           ],
         },
