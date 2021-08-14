@@ -6,7 +6,7 @@ module.exports = {
   title: 'JFilters Documentation',
   tagline: 'The filtering solution for Joomla 4',
   url: 'https://docs.blue-coder.com',
-  baseUrl: '/',
+  baseUrl: '/jfilters/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
