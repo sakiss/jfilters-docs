@@ -17,7 +17,7 @@ module.exports = {
     navbar: {
       title: 'JFilters Documentation',
       logo: {
-        alt: 'JFiltersLogo ',
+        alt: 'JFiltersLogo',
         src: 'img/logo.svg',
       },
       items: [
