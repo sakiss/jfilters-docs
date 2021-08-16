@@ -22,6 +22,11 @@ module.exports = {
       },
       items: [
         {
+          href: 'https://docs.blue-coder.com',
+          label: 'Docs',
+          position: 'left',
+        },
+        {
           href: 'https://github.com/bluecoderr/jfilters-docs/',
           label: 'GitHub',
           position: 'right',
