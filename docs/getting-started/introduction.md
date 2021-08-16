@@ -12,7 +12,7 @@ description: What 'JFilters' is, and its noteworthy features.
 
 ## What it is
 
-Provides filtering to the Joomla CMS.
+Provides filtering functionality to the Joomla CMS.
 
 ## Features
 - Combined with the Joomla Smart Search (a.k.a finder).
