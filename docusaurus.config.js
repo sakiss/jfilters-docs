@@ -22,12 +22,6 @@ module.exports = {
       },
       items: [
         {
-          type: 'doc',
-          docId: 'getting-started/intro',
-          position: 'left',
-          label: 'Docs',
-        },
-        {
           href: 'https://github.com/bluecoderr/jfilters-docs/',
           label: 'GitHub',
           position: 'right',
