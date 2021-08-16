@@ -24,7 +24,7 @@ module.exports = {
         {
           href: 'https://docs.blue-coder.com',
           label: 'Docs',
-          position: 'left',
+          position: 'right',
         },
         {
           href: 'https://github.com/bluecoderr/jfilters-docs/',
