@@ -109,7 +109,6 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
   border-color: var(--ifm-alert-border-color);
   border-style: solid;
   border-width: var(--ifm-alert-border-width);
-  border-left-width: var(--ifm-alert-border-left-width);
   border-radius: var(--ifm-alert-border-radius);
   box-shadow: var(--ifm-alert-shadow);
   color: var(--ifm-alert-emphasis-color);
