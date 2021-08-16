@@ -42,7 +42,7 @@ module.exports = {
           items: [
             {
               label: 'Facebook',
-              href: 'https://facebook.com/bluecoder.software',
+              href: 'https://www.facebook.com/thebluecoder',
             },
             {
               label: 'Twitter',
