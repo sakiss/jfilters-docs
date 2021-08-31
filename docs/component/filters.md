@@ -15,7 +15,7 @@ For example if you created new "Custom Fields", filters will be generated for th
 If a new content language is installed and there are categories for that language, your will see new a new category filter for that language.
 
 :::info
-The synchronization will not change the setup of your existing filters.
+The synchronization will not change the setup of your existing remaining filters.
 :::
 
 ## Re-Generate
