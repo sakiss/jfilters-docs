@@ -13,7 +13,7 @@ This tab provides settings for filters that have nested options (e.g. Categories
 ### Parent Option
 Sets the parent option, whose children nodes will be loaded in the filter.
 :::info
-This is setting is useful, especially when you have long lists of options, which are semantically diverse (e.g. semantically diverse categories).
+This setting is useful, especially when you have long lists of options, which are semantically diverse (e.g. semantically diverse categories).
 :::
 
 ###  Tree Toggle State
