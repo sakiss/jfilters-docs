@@ -37,6 +37,6 @@ Publish the filters you want to use in the front-end and we are almost ready to 
 
 :::note
 Only the published filters are listening the incoming HTTP requests. That means, that if you want your filters to be relevant to a content category page, a category filter should be published.
-To exclude published filters from showing up in the filtering module, please use the ["Loaded Filters" setting](https://docs.blue-coder.com/jfilters/getting-started/filtering-module#setup).
+To exclude published filters from showing up in the filtering module, please use the ["Loaded Filters" setting](https://docs.blue-coder.com/jfilters/getting-started/filtering-module#setup) in the filtering module.
 :::
 
