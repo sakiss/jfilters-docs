@@ -7,7 +7,7 @@ description: Explanation of the task buttons, in the component's filters view.
 # Filters
 
 ## Synchronize
-Pressing the *"Synchronize"* button, will synchronize the filters with the Joomla system.
+Pressing the *"Synchronize"* button, will synchronize the filters with the Joomla CMS, deleting orphan filters and generating new.
 
 ![synchronize button](/img/component/synchronize.png)
 
