@@ -36,7 +36,8 @@ It is because it generates a filter for each installed language, when Joomla is 
 Publish the filters you need to use, and we are almost ready to go.
 
 :::info
-Only the published filters are listening to the incoming HTTP requests. That means, that if you want your filters to be relevant to a content category page, a category filter should be published.
+We suggest keeping a "Category" filter always published. Also, that "Category" filter should not have a [Parent Option](https://docs.blue-coder.com/jfilters/component/filter-config/tree#parent-option) set.
+Why? Only the published filters are listening to the incoming HTTP requests. If you want your filters to be relevant to a content category page, a category filter should be published.
 To exclude published filters from showing up in the filtering module, please use the ["Loaded Filters" setting](https://docs.blue-coder.com/jfilters/getting-started/filtering-module#setup) in the filtering module.
 :::
 
