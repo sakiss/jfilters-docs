@@ -18,11 +18,12 @@ As with any module, publish it, put it in a module position and assign a menu it
 
 
 
-1.  **Selected Filters**.
-    The filters that will be loaded in the module. Use that setting if you want to restrict the module to load ONLY specific filters.
+1.  **Loaded Filters**.
+    Select or exclude the filters that will be loaded in the module. 
+    Use that setting if you want to restrict the module to load ONLY specific filters.
     
     :::info
-    The module by default shows the filters and their options, relevant to the page's content.
+    By leaving this setting to "All /Auto", the module will load all the filters and their options, relevant to the page's content.
     :::
     
 2.  **Combine Filters with Smart Search**.
