@@ -21,7 +21,7 @@ The toggle state of the filter.
 
 
 :::info
-When a user toggles a filter, the last set state will be stored in his/her browser's localstorage and will be used across the entire website and all his/her subsequent visits, **ignoring the filter's *toggle state* setting**.
+When a user toggles a filter, the set state will be stored in his/her browser's sessionStorage and will be used across the entire website in the current session, **ignoring the filter's *toggle state* setting**.
 :::
 
 
