@@ -30,7 +30,8 @@ only [root filters](/component/filter-config/filter#root) can be used as *Primar
 ## Results Displsay
 
 :::info
-The following settings exist also in the Smart Search's menu item.:::
+The following settings exist also in the Smart Search's menu item.
+:::
 
 ### Result Taxonomy
 Shows meta-data like: *type*, *author*, *category* and *language* to the result items.
@@ -53,7 +54,8 @@ The url of the result item.
 The field based on which, the search results are sorted.
 
 :::info
-If there is a search query, the results are considered **search results**, no matter if there are filters selected.:::
+If there is a search query, the results are considered **search results**, no matter if there are filters selected.
+:::
 
 ## Search Results Sort Direction
 The direction of the sorting, for the search results.
@@ -62,7 +64,8 @@ The direction of the sorting, for the search results.
 The field based on which, the filtering results are sorted.
 
 :::info
-This setting will be taken into account, only when no search query exists.:::
+This setting will be taken into account, only when no search query exists.
+:::
 
 ## Filtering Results Sort Direction
 The direction of the sorting, for the filtering results.
