@@ -57,17 +57,17 @@ The field based on which, the search results are sorted.
 If there is a search query, the results are considered **search results**, no matter if there are filters selected.
 :::
 
-## Search Results Sort Direction
+### Search Results Sort Direction
 The direction of the sorting, for the search results.
 
-## Filtering Results Sort Field
+### Filtering Results Sort Field
 The field based on which, the filtering results are sorted.
 
 :::info
 This setting will be taken into account, only when no search query exists.
 :::
 
-## Filtering Results Sort Direction
+### Filtering Results Sort Direction
 The direction of the sorting, for the filtering results.
 
 
