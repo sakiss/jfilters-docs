@@ -27,22 +27,46 @@ That means that the urls will be shorter and more specific to the site's content
 only [root filters](/component/filter-config/filter#root) can be used as *Primary Filters*.
 :::
 
+## Results Displsay
 
-**The following settings regard the results and exist also in the Smart Search's menu item**
-## Result Taxonomy
+:::info
+The following settings exist also in the Smart Search's menu item.:::
+
+### Result Taxonomy
 Shows meta-data like: *type*, *author*, *category* and *language* to the result items.
 
-## Result Description
+### Result Description
 Shows a short description to the result items.
 
-## Description Length
+### Description Length
 Length of the *Result Description*.
 
-##  Result Date
+###  Result Date
 The creation date of the result item (e.g. an article).
 
-##  Result URL
+###  Result URL
 The url of the result item.
+
+## Results Sorting
+
+###  Search Results Sort Field
+The field based on which, the search results are sorted.
+
+:::info
+If there is a search query, the results are considered **search results**, no matter if there are filters selected.:::
+
+## Search Results Sort Direction
+The direction of the sorting, for the search results.
+
+## Filtering Results Sort Field
+The field based on which, the filtering results are sorted.
+
+:::info
+This setting will be taken into account, only when no search query exists.:::
+
+## Filtering Results Sort Direction
+The direction of the sorting, for the filtering results.
+
 
 
 
