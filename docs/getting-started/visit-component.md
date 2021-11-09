@@ -36,8 +36,7 @@ It is because it generates a filter for each installed language, when Joomla is 
 Publish the filters you need to use, and we are almost ready to go.
 
 :::info
-We suggest keeping a "Category" filter always published. Also, make sure that this "Category" filter does not have a [Parent Option](/component/filter-config/tree#parent-option) that excludes the categories used for filtering.
-Why? Only the published filters are listening to the incoming HTTP requests. If you want your filters to be relevant to a content category page, a category filter should be published.
-To exclude published filters from showing up in the filtering module, please use the ["Loaded Filters" setting](/getting-started/filtering-module#setup) in the filtering module.
+We suggest keeping a "Category" filter to *published* or *listening* state. Also, make sure that this "Category" filter does not have a [Parent Option](/component/filter-config/tree#parent-option) that excludes the categories used for filtering.
+Why? Only the filters in *published* or *listening* state are listening to the incoming HTTP requests. If you want your filters to be relevant to a content category page, a category filter should listen to incoming requests.
 :::
 
