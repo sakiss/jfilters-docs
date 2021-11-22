@@ -30,7 +30,7 @@ A filter can get 3 statuses.
 #### Published
 A published filter is loaded to the filtering module and can listen to incoming requests.
 #### Listening
-A filter in that state is not loaded in the filtering module, but is listening to incoming requests and return results.
+A filter in that state is not loaded in the filtering module, but is listening to incoming requests and returns results.
 You can use urls pointing to filters in that state, inside your content. E.g. Pointing to an author's articles.
 
 :::tip
