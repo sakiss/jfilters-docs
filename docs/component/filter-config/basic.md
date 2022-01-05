@@ -28,11 +28,9 @@ When a user toggles a filter, the set state will be stored in his/her browser's 
 Defines how the filter's options will be sorted.
 
 ![JFilters Filter order by label](/img/component/filter-basic-order_by_label.png)
-
 *Sort Options By* = *Label Alphabetically ASC*
 
 ![JFilters Filter order by counter](/img/component/filter-basic-order_by_counter.png)
-
 *Sort Options By* = *Number of Results DESC*
 
 ### Sorting Direction
