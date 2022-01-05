@@ -41,13 +41,13 @@ The sorting direction (Ascending or Descending).
 Shows a *clear* link when there is a selection in the filter. That link clears any selection in the filter if clicked.
 
 ###  Show Counter
-Shows a counter, beside each option, indicating the number of the returned results items, if selected.
+Shows a counter, beside each option, indicating the number of the returned results.
 ![JFilters Filter counter](/img/component/filter-basic-counter.png)
 
 *Show Counter* = *Show*
 
 ### Scrollbar After
-Sets a scrollbar when the filter exceeds certain height.
+Sets a scrollbar when the filter exceeds the set height.
 
 ### Units
 The units for the *Scrollbar After* setting.
