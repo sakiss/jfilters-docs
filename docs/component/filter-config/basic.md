@@ -24,6 +24,18 @@ The toggle state of the filter.
 When a user toggles a filter, the set state will be stored in his/her browser's sessionStorage and will be used across the entire website in the current session, **ignoring the filter's *toggle state* setting**.
 :::
 
+### Sort Options By
+Defines how the filter's options will be sorted.
+![JFilters Filter order by label](/img/component/filter-basic-order_by_label.png)
+
+*Sort Options By* = *Label Alphabetically ASC*
+
+![JFilters Filter order by counter](/img/component/filter-basic-order_by_counter.png)
+
+*Sort Options By* = *Number of Results DESC*
+
+### Sorting Direction
+The sorting direction (Ascending or Descending).
 
 ### Show Clear
 Shows a *clear* link when there is a selection in the filter. That link clears any selection in the filter if clicked.
