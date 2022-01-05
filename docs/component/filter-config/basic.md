@@ -26,6 +26,7 @@ When a user toggles a filter, the set state will be stored in his/her browser's 
 
 ### Sort Options By
 Defines how the filter's options will be sorted.
+
 ![JFilters Filter order by label](/img/component/filter-basic-order_by_label.png)
 
 *Sort Options By* = *Label Alphabetically ASC*
@@ -42,6 +43,7 @@ Shows a *clear* link when there is a selection in the filter. That link clears a
 
 ###  Show Counter
 Shows a counter, beside each option, indicating the number of the returned results.
+
 ![JFilters Filter counter](/img/component/filter-basic-counter.png)
 
 *Show Counter* = *Show*
