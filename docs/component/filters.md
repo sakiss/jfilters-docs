@@ -11,7 +11,7 @@ Pressing the *"Synchronize"* button, will synchronize the filters with the Jooml
 
 ![synchronize button](/img/component/synchronize.png)
 
-For example if you created new "Custom Fields", filters will be generated for them. If a "Custom Field" is deleted, the respective filter will be deleted.
+For example if you created a new Custom Field, a filter will be generated for that.
 If a new content language is installed and there are categories for that language, your will see new a new category filter for that language.
 
 :::info
