@@ -33,6 +33,10 @@ Defines how the filter's options will be sorted.
 ![JFilters Filter order by counter](/img/component/filter-basic-order_by_counter.png)
 *Sort Options By* = *Number of Results DESC*
 
+:::info
+Filters with nested/tree structure (like Categories and Tags), follow the ordering set in the respective Joomla view.
+:::
+
 ### Sorting Direction
 The sorting direction (Ascending or Descending).
 
