@@ -7,13 +7,6 @@ description: Exploring the 'JFilters' component on the 1st visit.
 
 # The JFilters component
 
-## What it does
-The component's main responsibilities are:
-1. Generates the filters from the Joomla cms.
-2. Provides an interface for the filters' configuration.
-3. Provides the filters to the front-end.
-4. Performs the filtering and returns results.
-
 ## What to check on 1st visit
 
 ### Alert Messages
