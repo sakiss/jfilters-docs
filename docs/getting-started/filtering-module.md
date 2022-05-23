@@ -18,7 +18,7 @@ As with any module, publish it, put it in a module position and assign a menu it
 
 
 
-1.  **Loaded Filters**.
+1. **Loaded Filters**.
     Select or exclude the filters that will be loaded in the module. 
     Use that setting if you want to restrict the module to load ONLY specific filters.
     
@@ -26,12 +26,14 @@ As with any module, publish it, put it in a module position and assign a menu it
     By leaving this setting to "All /Auto", will load all the filters and their options, relevant to the page's content.
     :::
     
-2.  **Combine Filters with Smart Search**.
+2. **Update using Ajax**. The module uses ajax to update the results after every selection. This can make the user experience way faster, giving an "app like" feeling.
+
+3. **Combine Filters with Smart Search**.
     Enable that if you want the filters to refine the results of the smart search component.
     
-3. **Results Page**. The page that will be used to show the results of that filtering module.
+4. **Results Page**. The page that will be used to show the results of that filtering module.
 
-4. **Context**. This defines the type of items that will be returned as results. It has meaning only if there are filters for different contexts (e.g. different components).
+5. **Context**. This defines the type of items that will be returned as results. It has meaning only if there are filters for different contexts (e.g. different components).
 
 Save the module, and we are done.
 
