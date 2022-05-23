@@ -31,7 +31,8 @@ A filter can get 3 statuses.
 A published filter is loaded to the filtering module and can listen to incoming requests.
 #### Listening
 A filter in that state is not loaded in the filtering module, but is listening to incoming requests and returns results.
-You can use urls pointing to filters in that state, [inside your content](https://blue-coder.com/help/blog/using-clickable-custom-fields-and-tags-in-your-joomla-text). E.g. Pointing to an author's articles.
+You can use urls pointing to filters in that state, [inside your content](https://blue-coder.com/help/blog/using-clickable-custom-fields-and-tags-in-your-joomla-text) e.g. Pointing to an author's articles.
+or to have other filters be relevant to that (e.g. a category page) when this is implicitly selected.
 
 #### Unpublished
 An unpublished filter is completely inactive.
