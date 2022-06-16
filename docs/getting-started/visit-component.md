@@ -29,7 +29,7 @@ It is because it generates a filter for each installed language.
 Publish the filters you need to use, and we are almost ready to go.
 
 :::info
-We suggest keeping a "Category" filter to a *published* or a *listening* state. Also, make sure that this "Category" filter does not have a [Parent Option](/component/filter-config/tree#parent-option) that excludes the categories used for filtering.
-Why? Only the filters in *published* or *listening* state are listening to the incoming HTTP requests. To have filters relevant to the content of your category pages, a category filter should listen to incoming requests.
+We suggest keeping a "Category" filter to a *published* or a *listening* state.
+Why? Only filters in *published* or *listening* state are listening to the incoming HTTP requests. To have filters relevant to the content of your category pages, a category filter should listen to incoming requests. Also, make sure that this "Category" filter does not have a [Parent Option](/component/filter-config/tree#parent-option) that excludes categories.
 :::
 
