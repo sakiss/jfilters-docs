@@ -39,6 +39,16 @@ Shows meta-data like: *type*, *author*, *category* and *language* to the result 
 ### Result Description
 Shows a short description to the result items.
 
+### Result Image
+Shows an image to the result items.
+
+### Image Class
+We can set a class to the image.
+E.g. `float-start`, `float-end`, to position the image.
+
+###  Linked Image
+Indicates if the image is a link that leads to the result item.
+
 ### Description Length
 Length of the *Result Description*.
 
