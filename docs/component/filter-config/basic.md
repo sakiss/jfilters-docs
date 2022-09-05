@@ -50,6 +50,17 @@ Shows a counter, beside each option, indicating the number of the returned resul
 
 *Show Counter* = *Show*
 
+### List Search
+Search the options/values of a filter.
+
+![JFilters Filter list search](/img/component/filter-list_search.png)
+
+*List Search* = *Show*
+
+:::info
+The *List Search* can lookup also into collapsed/invisible sub-trees (e.g. nested categories).
+:::
+
 ### Scrollbar After
 Sets a scrollbar when the filter exceeds the set height.
 
