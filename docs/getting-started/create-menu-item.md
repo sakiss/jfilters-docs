@@ -30,7 +30,7 @@ only [root filters](/component/filter-config/filter#root) can be used as *Primar
 ## Results Displsay
 
 :::info
-The following settings exist also in the Smart Search's menu item.
+The following settings exist also in the Smart Search's menu item, since both JFilters and the Smart Search use the same layout for showing the results.
 :::
 
 ### Result Taxonomy
