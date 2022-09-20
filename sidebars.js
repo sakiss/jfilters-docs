@@ -19,8 +19,8 @@ module.exports = {
       items: [
         {
           type: 'link',
-          label: 'Customizing the results with template overrides',
-          href: 'https://blue-coder.com/help/blog/customizing-search-results'
+          label: 'Customizing the results to be a multi-column grid',
+          href: 'https://blue-coder.com/help/blog/smart-search-and-jfilters-results-as-multi-column-grid'
         },
         {
           type: 'link',
