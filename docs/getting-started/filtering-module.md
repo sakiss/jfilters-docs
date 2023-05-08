@@ -35,6 +35,6 @@ As with any module, publish it, put it in a module position and assign a menu it
 
 5. **Context**. This defines the type of items that will be returned as results. It has meaning only if there are filters for different contexts (e.g. different components).
 
-Save the module, and we are done.
+Save the module, and you are done.
 
 ![thumbs up](/img/thumb.svg) Well done! Visit your front-end to see the filters.
