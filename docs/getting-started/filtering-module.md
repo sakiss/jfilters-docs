@@ -26,7 +26,7 @@ As with any module, publish it, put it in a module position and assign a menu it
     By leaving this setting to "All /Auto", will load all the filters and their options, relevant to the page's content.
     :::
     
-2. **Update using Ajax**. The module uses ajax to update the results after every selection. This can make the user experience way faster, giving an "app like" feeling.
+2. **Load Results using Ajax**. The module uses ajax to update the results and the JFilters modules, after every selection. This can make the user experience way faster, giving an "app like" feeling.
 
 3. **Combine Filters with Smart Search**.
     Enable that if you want the filters to refine the results of the smart search component.
