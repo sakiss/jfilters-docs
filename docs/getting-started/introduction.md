@@ -8,14 +8,14 @@ description: What 'JFilters' is, and its noteworthy features.
 
 # JFilters
 
-> The filtering solution for Joomla 4
+> The filtering solution for Joomla 4 and 5
 
 ## What it is
 
 Provides filtering functionality to the Joomla CMS.
 
 ## Features
-- Combined with the Joomla Smart Search (a.k.a finder).
+- Combined with the Joomla's Smart Search (a.k.a com_finder).
 - Auto-detection of the filters and their options, relevant to the page's content. You will only see filters that return results in your pages.
 - SEO Friendly.  
 - Uses the *Smart Search's* results layout to show the results.
