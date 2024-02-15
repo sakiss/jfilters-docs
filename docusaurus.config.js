@@ -3,8 +3,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'JFilters Documentation',
-  tagline: 'The filtering solution for Joomla 4',
+  title: 'JFilters extension Documentation - Setup, settings and troubleshooting for Joomla\'s JFilters',
+  tagline: 'The filtering solution for Joomla 4 and 5',
   url: 'https://docs.blue-coder.com',
   baseUrl: '/jfilters/',
   onBrokenLinks: 'throw',
