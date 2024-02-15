@@ -5,7 +5,7 @@ description: The filter's 'Advanced' tab.
 ---
 # Advanced
 ### Show If Selected
-By using that setting, we can display a filter, only when there is a selection in other filters.
+By using that setting, we can display a filter, only when there is a selection in other filter/s.
 
 For example, in a page that is not a category blog page, we may see all the published filters. Those filters can refer to different contexts (e.g. some for products and others for animals).
 Would be sane to keep the 'category` filter visible and load other filters, only after a category is selected.  
