@@ -11,7 +11,8 @@ Provides essential settings and information about the filter.
 ![JFilters Filter filter settings](/img/component/filter-filter.png)
 
 ### Display
-How the filter will be displayed in the front-end.
+How the filter will be displayed in the front-end. Based on the data type used by the filter, and it's parent field, you will see different display types available. E.g. 'Calendars' for the filters using dates.
+
 ### Root
 A root filter is probably the most important filter.
 It is the top-level filter from where the filtering, or the browsing experience starts.
