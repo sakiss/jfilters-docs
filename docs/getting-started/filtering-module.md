@@ -6,34 +6,34 @@ description: Creating and configuring the filtering module.
 ---
 
 # Filtering Module
-The filtering module, provides the filters to the front-end.
+The filtering module, shows the filters to the front-end.
 
 ## Create
 1. Go to `System > Manage > Site Modules` to open the module manager.
 2. Press 'New'.
-3. Select "JFilters Filters".
+3. Select `JFilters Filters`.
 
 ## Setup
 As with any module, publish it, put it in a module position and assign a menu item. More on that in [Joomla Modules Documentation](https://docs.joomla.org/Module).
 
 
+### Loaded Filters
+Select or exclude the filters that will be loaded in the module.
+Use that setting if you want to restrict the module to load ONLY specific filters.
 
-1. **Loaded Filters**.
-    Select or exclude the filters that will be loaded in the module. 
-    Use that setting if you want to restrict the module to load ONLY specific filters.
+:::info
+By leaving this setting to "All /Auto", will load all the filters and their options, relevant to the page's content.
+:::
     
-    :::info
-    By leaving this setting to "All /Auto", will load all the filters and their options, relevant to the page's content.
-    :::
-    
-2. **Load Results using Ajax**. The module uses ajax to update the results and the JFilters modules, after every selection. This can make the user experience way faster, giving an "app like" feeling.
+### Load Results using Ajax
+Use ajax to update the results and the JFilters modules. This can make the user experience way faster, giving an "app like" feeling.
 
-3. **Combine Filters with Smart Search**.
-    Enable that if you want the filters to refine the results of the smart search component.
+### Combine Filters with Smart Search
+Enable that if you want the filters to refine the results of the smart search component.
     
-4. **Results Page**. The page that will be used to show the results of that filtering module.
-
-5. **Context**. This defines the type of items that will be returned as results. It has meaning only if there are filters for different contexts (e.g. different components).
+### Results Page
+The page that will be used to show the results of that filtering module.
+Setting that properly affects the type of the loaded filters and the type/context of the returned results.
 
 Save the module, and you are done.
 
