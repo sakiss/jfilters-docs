@@ -7,11 +7,6 @@ Go to `Menus` select your menu and press the "New" button.
 
 As "Menu Item Type" select `JFilters > Results`.
 
-:::tip
-We do NOT want this menu item to be visible to the users.  
-Our suggestion is to either hide it using the `Link Type > Display in Menu` setting or put it under a menu, which is not visible in the front-end.
-:::
-
 As *Alias*, we suggest setting something that is relevant to your content.  
 e.g. If the site (or the used filters) are about wines, you can set *'wines'* as alias. 
 
@@ -19,7 +14,21 @@ We will explain the settings under the **Options** tab, as the other are common 
 
 ![JFilters menu settings](/img/getting-started/menu-options.png)
 
-##  Primary Filter
+## Context
+The type of content that will be used as results.
+
+## Preset Filters
+Define the default results by presetting filters.
+
+Using that setting, you can create any type of page by selecting the filters of your preference.
+
+:::tip
+If the `Preset Filters` setting is empty, our results page will be empty, but it will still load results after selecting filters.
+In that case, you better keep this menu item invisible in the front-end.
+Our suggestion is to hide it using the `Link Type > Display in Menu` setting.
+:::
+
+## Primary Filter
 If a primary filter is selected, that filter will use as an alias, that menu item's alias.
 That means that the urls will be shorter and more specific to the site's content.
 
