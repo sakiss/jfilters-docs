@@ -15,15 +15,15 @@ We will explain the settings under the **Options** tab, as the other are common 
 ![JFilters menu settings](/img/getting-started/menu-options.png)
 
 ## Context
-The type of content that will be used as results.
+The type of content that will be loaded in that page.
 
 ## Preset Filters
-Define the default results by presetting filters.
+Define the page's items by presetting filters.
 
-Using that setting, you can create any type of page by selecting the filters of your preference.
+You can use that to create pages, based on the criteria/filters of your preference.
 
 :::tip
-If the `Preset Filters` setting is empty, our results page will be empty, but it will still load results after selecting filters.
+If the `Preset Filters` setting is empty, our results page will be empty, but it will still load results after selecting filters (e.g. From the modules).
 In that case, you better keep this menu item invisible in the front-end.
 Our suggestion is to hide it using the `Link Type > Display in Menu` setting.
 :::
@@ -36,7 +36,7 @@ That means that the urls will be shorter and more specific to the site's content
 only [root filters](/component/filter-config/filter#root) can be used as *Primary Filters*.
 :::
 
-## Results Displsay
+## Results Display
 
 :::info
 The following settings exist also in the Smart Search's menu item, since both JFilters and the Smart Search use the same layout for showing the results.
