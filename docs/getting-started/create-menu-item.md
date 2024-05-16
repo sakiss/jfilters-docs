@@ -22,6 +22,10 @@ Define the page's items by presetting filters.
 
 You can use that to create pages, based on the criteria/filters of your preference.
 
+:::info
+The *Preset Filters* cannot be cleared/removed from the page, even if you try that through the filtering module.
+:::
+
 :::tip
 If the `Preset Filters` setting is empty, our results page will be empty, but it will still load results after selecting filters (e.g. From the modules).
 In that case, you better keep this menu item invisible in the front-end.
