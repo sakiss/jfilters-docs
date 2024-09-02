@@ -13,6 +13,13 @@ module.exports = {
   organizationName: 'bluecoderr', // Usually your GitHub org/user name.
   projectName: 'jfilters-docs', // Usually your repo name.
   themeConfig: {
+    // Declare some <meta> tags
+    metadata: [
+      {name: 'keywords', content: 'JFilters, Joomla filters, custom fields'},
+      {name: 'twitter:card', content: 'summary_large_image'},
+      {name: 'twitter:image', content: 'img/og_image.png'},
+      {name: 'og:image', content: 'img/og_image.png'},
+    ],
     image: 'img/og_image.png',
     navbar: {
       title: 'JFilters Documentation',
