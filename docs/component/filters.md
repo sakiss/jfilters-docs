@@ -24,5 +24,5 @@ Pressing that button, will delete all your existing filters and generate new fil
 ![re-generate button](/img/component/re-generate.png)
 
 :::caution
-Your existing filters will be deleted.
+Your existing filters will be deleted. That can also affect other settings such as the [Preset Filters](/getting-started/create-menu-item#preset-filters) in the JF menu item or filtering urls, used inside your text.
 :::
