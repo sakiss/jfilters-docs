@@ -56,7 +56,7 @@ If no *Sorting Rules* set, the default will be used ("Title Ascending" for filte
 
 A rule is validated based on the following criteria:
 ### Use On Search 
-We have a search when there is a search query. I.e. After filtering the *Smart Search* results.
+We have a search when there is a search query. I.e. When filtering the *Smart Search* results.
 ### Use on Filtering
 Every other case (i.e. when there is no search query), applies here.
 
