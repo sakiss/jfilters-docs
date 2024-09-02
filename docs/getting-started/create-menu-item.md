@@ -15,7 +15,7 @@ We will explain the settings under the **Options** tab, as the other are common 
 ![JFilters menu settings](/img/getting-started/menu-options.png)
 
 ## Context
-The type of content that will be loaded in that page.
+The type of content (i.e. Items) that will be loaded in that page.
 
 ## Preset Filters
 Define the page's items by presetting filters.
@@ -34,7 +34,11 @@ Our suggestion is to hide it using the `Link Type > Display in Menu` setting.
 
 ## Primary Filter
 If a primary filter is selected, that filter will use as an alias, that menu item's alias.
-That means that the urls will be shorter and more specific to the site's content.
+That means that the urls will be shorter and more specific to the site's content.\
+Example: if you have a menu item alias `wines`, and you select `merlot` from your "Category" filter, you can have the following outcome:\
+a. Without setting the "Category" as a *Primary Filter* the url will become:
+`https://example.com/wines/category/merlot` \
+b. After setting the "Category" as a *Primary Filter* the url will become: `https://example.com/wines/merlot`
 
 :::info
 only [root filters](/component/filter-config/filter#root) can be used as *Primary Filters*.
