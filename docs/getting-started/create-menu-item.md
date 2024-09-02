@@ -51,6 +51,7 @@ Displays a drop-down with the available sorting options in the front-end.
 This feature allows for dynamic sorting of the results, based on various criteria.
 :::info
 By default, the first applicable sorting rule is used, regardless of how many rules are created, unless the user selects a sorting field in the front-end.
+If no *Sorting Rules* set, the default will be used ("Title Ascending" for filtering and "Relevance Descending" for search).
 :::
 
 A rule is validated based on the following criteria:
