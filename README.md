@@ -1,10 +1,10 @@
 # BlueCoder JFilters Documentation
 Welcome! This is repository contains the documentation for [BlueCoder's JFilters](https://blue-coder.com/jfilters) extension.
-JFilters is a powerful filtering extension for Joomla 4 and above.
+JFilters is a powerful filtering extension for Joomla and above.
 
 
 ## Documentation Page
-The JFilters documentation page, can be found in: [https://docs.blue-coder.com/jfilters](https://docs.blue-coder.com/jfilters)
+The JFilters documentation page, can be found at: [https://docs.blue-coder.com/jfilters](https://docs.blue-coder.com/jfilters)
 
 ## Contribution
 The documentation pages are using Markdown syntax. Feel free to open an issue or create your own pull request.
