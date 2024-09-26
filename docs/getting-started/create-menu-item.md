@@ -18,9 +18,7 @@ We will explain the settings under the **Options** tab, as the other are common 
 The type of content that will be loaded in that page.
 
 ## Preset Filters
-Define the page's items by presetting filters.
-
-You can use that to create pages, based on the criteria/filters of your preference.
+Define that page's content by presetting filters. Usually, this is the content that you want your users to filter further.
 
 :::info
 The *Preset Filters* cannot be cleared/removed from the page, even if you try that through the filtering module.
