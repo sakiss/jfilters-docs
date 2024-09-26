@@ -44,6 +44,11 @@ module.exports = {
         },
         {
           type: 'link',
+          label: 'Filter using numerical and date ranges',
+          href: 'https://blue-coder.com/help/blog/how-to-fiilter-using-numerical-and-date-ranges'
+        },
+        {
+          type: 'link',
           label: 'View more',
           href: 'https://blue-coder.com/help/blog'
         },
