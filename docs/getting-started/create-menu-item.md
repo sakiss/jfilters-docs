@@ -18,16 +18,14 @@ We will explain the settings under the **Options** tab, as the other are common 
 The type of content (i.e. Items) that will be loaded in that page.
 
 ## Preset Filters
-Define the page's items by presetting filters.
-
-You can use that to create pages, based on various criteria/filters.
+Define that page's content by presetting filters. Usually, this is the content that you want your users to filter.
 
 :::info
 The *Preset Filters* cannot be cleared/removed from the page, even if you try that through the filtering module.
 :::
 
 :::tip
-If the `Preset Filters` setting is empty, the results page will be empty, but it will still load results after selecting filters (e.g. From the modules).
+If the `Preset Filters` setting is empty, the results page will be empty, and it will only show results, after selecting filters in the front-end (e.g. From the filtering modules).
 In that case, you better keep this menu item invisible in the front-end.
 Our suggestion is to hide it using the `Link Type > Display in Menu` setting.
 :::
