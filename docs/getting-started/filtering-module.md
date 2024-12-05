@@ -33,7 +33,7 @@ The results are loaded after the press of a submit button in the module. That bu
 ![JFilters filters submit button](/img/getting-started/submit_filters_button.png)
 
 ### Combine Filters with Smart Search
-Enable it, if you want the filters to refine the results of the smart search component.
+Enable it, if you want the filters to refine the results of the Smart Search component.
     
 ### Results Page
 The page that will be used to show the results of that filtering module.
