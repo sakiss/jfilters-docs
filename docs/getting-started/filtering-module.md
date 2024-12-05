@@ -28,8 +28,12 @@ By leaving this setting to "All /Auto", will load all the filters and their opti
 ### Load Results using Ajax
 Use ajax to update the results and the JFilters modules. This can make the user experience way faster, giving an "app like" feeling.
 
+### Submit Filters using a Button
+The results are loaded after the press of a submit button in the module. That button submits the set filters to the component.
+![JFilters filters submit button](/img/getting-started/submit_filters_button.png)
+
 ### Combine Filters with Smart Search
-Enable that if you want the filters to refine the results of the smart search component.
+Enable it, if you want the filters to refine the results of the smart search component.
     
 ### Results Page
 The page that will be used to show the results of that filtering module.
