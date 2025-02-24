@@ -22,6 +22,7 @@ Define that page's content by presetting filters. Usually, this is the content t
 
 :::info
 The *Preset Filters* cannot be cleared/removed from the page, even if you try that through the filtering module.
+Hence, you better set filters which are not visible in the front-end. The usual case, is the use of *Categories* which are in [Listening](/component/filter-config/filter#listening) state.
 :::
 
 :::tip
