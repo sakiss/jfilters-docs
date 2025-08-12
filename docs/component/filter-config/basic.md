@@ -18,10 +18,10 @@ The collapsible state of the filter in Mobile clients.
 * Do note: The client is being identified by the user agent of the request and NOT by the screen size.
 
 ![JFilters Filter collapsed](/img/component/filter-basic-collapsed.png)
-*collapsible state * = *collapsed*
+*Collapsible State* = *Collapsed*
 
 ![JFilters Filter expanded](/img/component/filter-basic-expanded.png)
-*collapsible state * = *expanded*
+*Collapsible State* = *Expanded*
 
 
 :::info
