@@ -10,14 +10,18 @@ Provides the basic settings.
 
 ![JFilters Filter Basic](/img/component/filter-basic.png)
 
-### Toggle State
-The toggle state of the filter.
+### Collapsible Desktop State
+The collapsible state of the filter in Desktop clients.
+
+### Collapsible Mobile State
+The collapsible state of the filter in Mobile clients.
+* Do note: The client is being identified by the user agent of the request and NOT by the screen size.
 
 ![JFilters Filter collapsed](/img/component/filter-basic-collapsed.png)
-*toggle state* = *collapsed*
+*collapsible state * = *collapsed*
 
 ![JFilters Filter expanded](/img/component/filter-basic-expanded.png)
-*toggle state* = *expanded*
+*collapsible state * = *expanded*
 
 
 :::info
