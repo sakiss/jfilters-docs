@@ -6,6 +6,7 @@ description: The filter's 'Advanced' tab.
 # Advanced
 ### Caching
 ![JFilters Filter 'Caching' setting](/img/component/caching.png)
+
 By enabling it, the filter's options/values will be stored and fetched from the cache, instead of querying the database.
 This can offer a significant performance boots for large websites.
 :::note
