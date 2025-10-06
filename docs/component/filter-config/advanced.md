@@ -8,7 +8,7 @@ description: The filter's 'Advanced' tab.
 ![JFilters Filter 'Caching' setting](/img/component/caching.png)
 
 By enabling it, the filter's options/values will be stored and fetched from the cache, instead of querying the database.
-This can offer a significant performance boots for large websites.
+This can offer a significant performance boost, especially for large websites.
 :::note
 For that to work, the Joomla's **"System Cache"**, should be enabled from the Global Configuration.
 :::
