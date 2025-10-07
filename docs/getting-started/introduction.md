@@ -8,7 +8,7 @@ description: What 'JFilters' is, and its noteworthy features.
 
 # JFilters
 
-> The filtering solution for Joomla 4 and 5
+> The filtering solution for Joomla!
 
 ## What it is
 
