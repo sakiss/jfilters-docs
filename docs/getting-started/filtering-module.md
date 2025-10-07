@@ -19,7 +19,7 @@ As with any module, publish it, put it in a module position and assign a menu it
 
 ### Loaded Filters
 Select or exclude the filters that will be loaded in the module.
-Use that setting only if you want to restrict the module to load ONLY specific filters.
+Use that setting only if you want to restrict the module to load specific filters.
 
 :::info
 By leaving this setting to "All /Auto", will auto-detect the filters and their options, relevant to the page's content.
