@@ -11,7 +11,7 @@ description: Exploring the 'JFilters' component on the 1st visit.
 
 ### Alert Messages
 If you visit the JFilters component for the 1st time, you may get some alert messages. 
-Each message, will come with a call-to-action button. Please press those buttons to finish the setup.
+Each message, comes with a call-to-action button. Please press those buttons to finish the setup.
 
 ![JFilters component warnings](/img/getting-started/component-warnings.png)
 
@@ -29,7 +29,7 @@ It is because it generates a filter for each installed language.
 Publish the filters you need to use, and we are almost ready to go.
 
 :::info
-We suggest keeping a "Category" filter to a *published* or a *listening* state.
-Why? Only filters in *published* or *listening* state are listening to the incoming HTTP requests. To have filters relevant to the content of your category pages, a category filter should listen to incoming requests. Also, make sure that this "Category" filter does not have a [Parent Option](/component/filter-config/tree#parent-option) that excludes categories.
+We suggest keeping a "Category" filter to either a *published* or a *listening* state.
+Why? Only filters in *published* or *listening* state are listening to the incoming HTTP requests. To have filters relevant to the content of your category pages, a category filter should listen to incoming requests. Also, make sure that you did not set a [Parent Option](/component/filter-config/tree#parent-option) that excludes categories for your main  "Category" filter.
 :::
 
