@@ -52,7 +52,8 @@ To prevent Google from indexing your results page, [use the **noindex** robots r
 :::
 
 ### Detect and Set Canonical Tag
-If enabled, the component will check if there are pages with similar content and will add a [canonical tag](https://developers.google.com/search/docs/advanced/crawling/consolidate-duplicate-urls) pointing to them.
+If enabled, the component will add [canonical tag](https://developers.google.com/search/docs/advanced/crawling/consolidate-duplicate-urls) to your JFilters pages.
+Canonical tags can point either to Joomla pages with identical content (e.g., Category Blog pages) or to JFilters pages where essential filters are used (e.g., Root Filters or Preset Filters).
 :::info
 Canonical tags to other pages, will be added only if those pages have search engine friendly urls.
 :::
