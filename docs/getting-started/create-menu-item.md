@@ -52,7 +52,7 @@ This feature allows for dynamic sorting of the results, based on various criteri
 By default, the first applicable sorting rule is used, regardless of how many rules are created, unless the user selects a sorting field in the front-end.
 If no *Sorting Rules* set, the default will be used ("Title Ascending" for filtering and "Relevance Descending" for search).
 :::
-
+<details>
 A rule is validated based on the following criteria:
 ### Use On Search 
 We have a search when there is a search query. I.e. When filtering the *Smart Search* results.
@@ -77,13 +77,15 @@ The filters that will be compared against the page's set filters.
 If you set at least one rule, the hardcoded defaults will be ignored and yours will be used instead. \
 We suggest setting at least one rule for [Use on Search](#use-on-search). The suggested *Sorting Field* for that is *"Relevance Descending"* .
 :::
+</details>
 
 ## Results Display
 
 :::info
 The following settings exist also in the Smart Search's menu item, since both JFilters and the Smart Search use the same layout for showing the results.
 :::
-
+<details>
+The following settings are available for the results display:
 ### Result Taxonomy
 Shows meta-data like: *type*, *author*, *category* and *language* to the result items.
 
@@ -108,3 +110,4 @@ The creation date of the result item (e.g. an article).
 
 ###  Result URL
 The url of the result item.
+</details>
