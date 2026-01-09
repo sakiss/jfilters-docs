@@ -20,6 +20,17 @@ module.exports = {
       {name: 'twitter:image', content: 'img/og_image.png'},
       {name: 'og:image', content: 'img/og_image.png'},
     ],
+    algolia: {
+      // The application ID provided by Algolia
+      appId: '7AAPON99QH',
+      // Public API key: it is safe to commit it
+      apiKey: '247f07e0cb78642e4cdd84be0d51d3e5',
+      indexName: 'blue-coder',
+      // Optional: see doc section below
+      contextualSearch: true,
+      // Optional: path for search page that enabled by default ('false' to disable it)
+      searchPagePath: 'search',
+    },
     image: 'img/og_image.png',
     navbar: {
       title: 'JFilters Documentation',
@@ -51,8 +62,8 @@ module.exports = {
               href: 'https://www.facebook.com/thebluecoder',
             },
             {
-              label: 'Twitter',
-              href: 'https://twitter.com/thebluecoder',
+              label: 'X',
+              href: 'https://x.com/thebluecoder',
             },
           ],
         },
