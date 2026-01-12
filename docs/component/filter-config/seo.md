@@ -44,6 +44,17 @@ With 'Max Path Levels' set to 3, the url will become:
 ###  Show Selections in Page Title
 Updates the page's title with the filter selections.
 
+### Hide Links from Bots
+Obfuscate the filtering links to prevent bots from following them.
+
+:::note
+The filtering module can generate a lot of links, which can put your server in a heavy load, if followed and crawled by bots.
+:::
+
+:::info
+Links will be hidden also from search engine bots/crawlers. We suggest keeping this option disabled for your `root` filters.
+:::
+
 ### Follow Links by Search Engines
 This adds a [nofollow](https://developers.google.com/search/docs/advanced/guidelines/qualify-outbound-links?hl=en) `rel` attribute to the links.
 
